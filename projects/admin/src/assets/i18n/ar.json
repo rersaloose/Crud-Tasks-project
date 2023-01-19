@@ -1,0 +1,14 @@
+{
+    "tasks": {
+      "AddTask":"اضافه مهمه"
+      ,"complete":"مكتمل "
+    },
+    "users": {
+
+    },
+    "general": {
+      "loading": "انتظار"
+    },
+    "button": {}
+  }
+  

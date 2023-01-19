@@ -1,0 +1,13 @@
+{
+  "tasks": {
+    "AddTask":"AddTask",
+    "Search":"Search",
+    "By User":"By User",
+    "complete":"complete"
+  },
+  "users": {},
+  "general": {
+    "loading": "loading"
+  },
+  "button": {}
+}
